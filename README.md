@@ -1,7 +1,7 @@
 # chatapp
 
 A new Flutter project.
-
+This project is reproduced from Marcus Ng youtube channel 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
